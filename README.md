@@ -16,6 +16,14 @@
 </div><br/>
 
 <h5>
+    Link do curso na Udemy<br/>
+    (https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos)<br/>
+    Link do GitHub<br/>
+    (https://github.com/matheusbattisti/curso_react)
+</h5>
+
+
+<h5>
 👋 Olá, visitante!
 
 📚 Atualmente, estou imerso em um emocionante curso na plataforma Udemy, focado no React. Nesta jornada de aprendizado, estou explorando conceitos essenciais e avançados, com destaque para o uso de Hooks, React Router e integração de APIs.
