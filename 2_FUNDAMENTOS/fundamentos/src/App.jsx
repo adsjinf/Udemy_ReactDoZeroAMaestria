@@ -3,6 +3,7 @@ import FistComponent from "./assets/components/FirstComponents";
 import TemplateExpressions from "./assets/components/TempleteExpressions";
 import MyComponents from "./assets/components/MyComponents";
 import Events from "./assets/components/Events";
+import Challege from  "./assets/components/Challenge"
 
 // style / css
 import './App.css'
@@ -17,6 +18,7 @@ function App() {
       <h5><TemplateExpressions /></h5>
       <MyComponents />
       <Events />
+      <Challege  />
     </div>
   );
 }
