@@ -11,7 +11,7 @@ const Container = ({ children, myValue }) => {
 }
 
 Container.propTypes = {
-    children: PropTypes.object.isRequired, // Valida que a prop 'children' é uma string obrigatória
+    children: PropTypes.object.isRequired, // Valida que a prop 'children' é um object obrigatória
     myValue: PropTypes.string.isRequired// Valida que a prop 'myValue' é uma string obrigatória
   };
 

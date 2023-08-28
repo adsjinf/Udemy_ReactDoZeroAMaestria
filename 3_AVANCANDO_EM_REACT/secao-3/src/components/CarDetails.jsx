@@ -18,7 +18,7 @@ CarDetails.propTypes = {
     brand: PropTypes.string.isRequired, // Valida que a prop 'brand' é uma string obrigatória
     color: PropTypes.string.isRequired, // Valida que a prop 'color' é uma string obrigatória
     km: PropTypes.number.isRequired, // Valida que a prop 'km' é um número obrigatória
-    newCar: PropTypes.bool.isRequired // Valida que a prop 'km' é um número obrigatória
+    newCar: PropTypes.bool.isRequired // Valida que a prop 'km' é um bool obrigatória
   };
 
 export default CarDetails

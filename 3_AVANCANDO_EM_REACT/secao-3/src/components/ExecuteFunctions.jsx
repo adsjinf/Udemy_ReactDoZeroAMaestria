@@ -9,7 +9,7 @@ const ExecuteFunctions = ({ myFunction }) => {
 }
 
 ExecuteFunctions.propTypes = {
-    myFunction: PropTypes.func.isRequired, // Valida que a prop 'myFunction' é uma string obrigatória
+    myFunction: PropTypes.func.isRequired, // Valida que a prop 'myFunction' é uma função obrigatória
   };
 
 
